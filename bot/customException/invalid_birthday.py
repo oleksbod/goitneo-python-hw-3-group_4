@@ -1,0 +1,2 @@
+class InvalidBirthdayFormatError(Exception):
+    pass
